@@ -1,0 +1,828 @@
+{
+  "items": [
+    {
+      "tags": [
+        "python",
+        "selenium",
+        "web-scraping"
+      ],
+      "owner": {
+        "account_id": 26366413,
+        "reputation": 3,
+        "user_id": 20021812,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu22w5wq-0gLEYrMw5BOY_KS7ghtOM-i7Sxb6G9S=k-s256",
+        "display_name": "Felipe",
+        "link": "https://stackoverflow.com/users/20021812/felipe"
+      },
+      "is_answered": false,
+      "view_count": 38,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1664010735,
+      "creation_date": 1663802712,
+      "question_id": 73807865,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73807865/how-to-download-product-images-with-selenium-in-python",
+      "title": "How to download product images, with selenium in python"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "powershell",
+        "command-line-interface",
+        "setuptools"
+      ],
+      "owner": {
+        "account_id": 25576826,
+        "reputation": 73,
+        "user_id": 19356117,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/NaShu.png?s=256&g=1",
+        "display_name": "forestbat",
+        "link": "https://stackoverflow.com/users/19356117/forestbat"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1664010723,
+      "creation_date": 1664010723,
+      "question_id": 73836017,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73836017/why-there-is-no-any-result-after-i-input-my-command",
+      "title": "Why there is no any result after I input my command\uff1f"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "list",
+        "dataframe",
+        "group-by"
+      ],
+      "owner": {
+        "account_id": 12558488,
+        "reputation": 183,
+        "user_id": 9137206,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ee470b1f36d82b02568d9589835ac374?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Michael",
+        "link": "https://stackoverflow.com/users/9137206/michael"
+      },
+      "is_answered": false,
+      "view_count": 33,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1664010693,
+      "creation_date": 1663944821,
+      "last_edit_date": 1664009850,
+      "question_id": 73829594,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73829594/re-write-pandas-dataframe-based-code-on-numpy",
+      "title": "Re-write pandas.DataFrame based code on numpy"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "account_id": 17932991,
+        "reputation": 17,
+        "user_id": 13029919,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhJ3GSUoZIr3MNZaCaP3--0YM4PvhfjT-aOZYHe=k-s256",
+        "display_name": "Farhang",
+        "link": "https://stackoverflow.com/users/13029919/farhang"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1664010626,
+      "creation_date": 1664010126,
+      "question_id": 73835958,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835958/how-can-i-filter-fancy-texts-in-python",
+      "title": "How can i filter fancy texts in python"
+    },
+    {
+      "tags": [
+        "python",
+        "mocking",
+        "python-unittest",
+        "python-unittest.mock"
+      ],
+      "owner": {
+        "account_id": 5214775,
+        "reputation": 2677,
+        "user_id": 4170095,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/--D0KECpbse4/AAAAAAAAAAI/AAAAAAAAAL4/ofzaYx24XzQ/photo.jpg?sz=256",
+        "display_name": "Philippe Remy",
+        "link": "https://stackoverflow.com/users/4170095/philippe-remy"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1664010610,
+      "creation_date": 1664010610,
+      "question_id": 73835997,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835997/python-mock-patch-not-mocking-the-object",
+      "title": "Python mock patch not mocking the object"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "nlp"
+      ],
+      "owner": {
+        "account_id": 4650054,
+        "reputation": 363,
+        "user_id": 3767185,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/KTcsP.jpg?s=256&g=1",
+        "display_name": "vahid sabet",
+        "link": "https://stackoverflow.com/users/3767185/vahid-sabet"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "closed_date": 1664006926,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1664010561,
+      "creation_date": 1664006322,
+      "last_edit_date": 1664010561,
+      "question_id": 73835615,
+      "link": "https://stackoverflow.com/questions/73835615/remove-or-replace-quotes-inside-another-quotes-in-python",
+      "closed_reason": "Duplicate",
+      "title": "Remove or replace quotes inside another quotes in Python"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "multi-index"
+      ],
+      "owner": {
+        "account_id": 26356825,
+        "reputation": 13,
+        "user_id": 20013690,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/875683b619fe2aa204986769ea0d95cb?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Feng Hu",
+        "link": "https://stackoverflow.com/users/20013690/feng-hu"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1664010521,
+      "creation_date": 1664009902,
+      "question_id": 73835941,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835941/pandas-multi-index-data-access",
+      "title": "Pandas multi-index data access"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "programming-languages"
+      ],
+      "owner": {
+        "account_id": 23743446,
+        "reputation": 49,
+        "user_id": 17761216,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/fGahu.jpg?s=256&g=1",
+        "display_name": "Jotham",
+        "link": "https://stackoverflow.com/users/17761216/jotham"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1664010466,
+      "creation_date": 1664010466,
+      "question_id": 73835986,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835986/return-the-variable-of-the-1st-exec-function-in-the-second-exec-function-in-pyth",
+      "title": "Return the variable of the 1st exec function in the second exec function in python"
+    },
+    {
+      "tags": [
+        "python",
+        "matplotlib",
+        "plot",
+        "seaborn"
+      ],
+      "owner": {
+        "account_id": 19520761,
+        "reputation": 16246,
+        "user_id": 14282714,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2030282b744f8bf9669705296a503c4d?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Quinten",
+        "link": "https://stackoverflow.com/users/14282714/quinten"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1664010428,
+      "creation_date": 1664009830,
+      "last_edit_date": 1664010428,
+      "question_id": 73835933,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835933/how-to-create-a-crosstab-plot-in-python",
+      "title": "How to create a Crosstab Plot in Python?"
+    },
+    {
+      "tags": [
+        "python",
+        "excel",
+        "pandas",
+        "dataframe",
+        "numpy"
+      ],
+      "owner": {
+        "account_id": 26235392,
+        "reputation": 1,
+        "user_id": 19910639,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AItbvmmkRTe-LQfHSQXgDNY6It8ud2kGeXTksgjOAbcD=k-s256",
+        "display_name": "Mohamed Nihal",
+        "link": "https://stackoverflow.com/users/19910639/mohamed-nihal"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1664010418,
+      "creation_date": 1664010418,
+      "question_id": 73835982,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835982/how-to-consolidate-different-excel-file-with-same-sheet-name-using-python",
+      "title": "how to consolidate different excel file with same sheet name using python\\"
+    },
+    {
+      "tags": [
+        "python",
+        "kivy",
+        "kivymd"
+      ],
+      "owner": {
+        "account_id": 21900003,
+        "reputation": 53,
+        "user_id": 16185786,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/964af65b7d537ef50378bbf7577d366d?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Programmer967",
+        "link": "https://stackoverflow.com/users/16185786/programmer967"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1664010324,
+      "creation_date": 1664010324,
+      "question_id": 73835975,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835975/trying-to-create-a-simple-button-on-kivy-but-gave-me-an-error-only-one-root-o",
+      "title": "Trying to create a simple button on kivy, but gave me an error &quot; Only one root object is allowed by .kv&quot;"
+    },
+    {
+      "tags": [
+        "python",
+        "json",
+        "numpy",
+        "pandas"
+      ],
+      "owner": {
+        "account_id": 4932950,
+        "reputation": 577,
+        "user_id": 3972080,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/?s=256&d=identicon&r=PG&f=1",
+        "display_name": "ubh",
+        "link": "https://stackoverflow.com/users/3972080/ubh"
+      },
+      "is_answered": true,
+      "view_count": 32883,
+      "accepted_answer_id": 27050186,
+      "answer_count": 7,
+      "score": 51,
+      "last_activity_date": 1664010324,
+      "creation_date": 1416519752,
+      "last_edit_date": 1416520403,
+      "question_id": 27050108,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/27050108/convert-numpy-type-to-python",
+      "title": "Convert numpy type to python"
+    },
+    {
+      "tags": [
+        "python",
+        "class"
+      ],
+      "owner": {
+        "account_id": 26429491,
+        "reputation": 1,
+        "user_id": 20075898,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu2sRv-SatEk58rId3pP6jJ0-E5ScHoPrUNh2Ejf=k-s256",
+        "display_name": "Md Fazlur Rahman",
+        "link": "https://stackoverflow.com/users/20075898/md-fazlur-rahman"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "closed_date": 1664010459,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1664010243,
+      "creation_date": 1664010024,
+      "last_edit_date": 1664010243,
+      "question_id": 73835952,
+      "link": "https://stackoverflow.com/questions/73835952/when-i-am-using-print-to-print-the-results-of-iteration-of-list-of-object-inst",
+      "closed_reason": "Duplicate",
+      "title": "When I am using print() to print the results of iteration of list of object instances i am also getting None along with the values"
+    },
+    {
+      "tags": [
+        "python",
+        "selenium",
+        "screen-scraping"
+      ],
+      "owner": {
+        "account_id": 23947007,
+        "reputation": 567,
+        "user_id": 17939220,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJwmDnf7yqPPSYul_G-IgsHvOMeNurOQu7CciE7y=k-s256",
+        "display_name": "imhans4305",
+        "link": "https://stackoverflow.com/users/17939220/imhans4305"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1664010215,
+      "creation_date": 1664010215,
+      "question_id": 73835965,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835965/extracting-data-from-p-tag-within-div-tags-using-python-selenium",
+      "title": "Extracting data from p tag within div tags using python selenium"
+    },
+    {
+      "tags": [
+        "python",
+        "list",
+        "multidimensional-array",
+        "artificial-intelligence",
+        "nested-for-loop"
+      ],
+      "owner": {
+        "account_id": 26429557,
+        "reputation": 1,
+        "user_id": 20075955,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/578653c9e2a16fe95a0d745f091907b2?s=256&d=identicon&r=PG",
+        "display_name": "anonS",
+        "link": "https://stackoverflow.com/users/20075955/anons"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1664010189,
+      "creation_date": 1664009876,
+      "last_edit_date": 1664010189,
+      "question_id": 73835937,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835937/python-2d-array-not-appending-additions",
+      "title": "Python 2D array not appending additions"
+    },
+    {
+      "tags": [
+        "python",
+        "django",
+        "attributeerror"
+      ],
+      "owner": {
+        "account_id": 23437584,
+        "reputation": 91,
+        "user_id": 17495492,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhKnWZ-fOMvIRfy-d3j_r_663IfMjpIqRjG38pCW1A=k-s256",
+        "display_name": "Ritika",
+        "link": "https://stackoverflow.com/users/17495492/ritika"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1664010146,
+      "creation_date": 1664006011,
+      "question_id": 73835591,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835591/why-do-i-get-attributeerror-nonetype-object-has-no-attribute-email",
+      "title": "Why do I get AttributeError: &#39;NoneType&#39; object has no attribute &#39;email&#39;"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "account_id": 16665221,
+        "reputation": 61,
+        "user_id": 12044083,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mBzjziI3uNWTD0QTszv82ECmdC12UXy2Z30gTGk-w=k-s256",
+        "display_name": "Rakan 3abdullah",
+        "link": "https://stackoverflow.com/users/12044083/rakan-3abdullah"
+      },
+      "is_answered": true,
+      "view_count": 29,
+      "answer_count": 3,
+      "score": -1,
+      "last_activity_date": 1664010143,
+      "creation_date": 1664007618,
+      "last_edit_date": 1664008405,
+      "question_id": 73835739,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835739/how-can-access-to-two-element-in-one-loop-python",
+      "title": "how can access to two element in one loop - python"
+    },
+    {
+      "tags": [
+        "python",
+        "nltk",
+        "bleu"
+      ],
+      "owner": {
+        "account_id": 22239059,
+        "reputation": 69,
+        "user_id": 16473900,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/23b4f22464c0a934ffc789bfe526aa41?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Hadi",
+        "link": "https://stackoverflow.com/users/16473900/hadi"
+      },
+      "is_answered": true,
+      "view_count": 10,
+      "accepted_answer_id": 73835949,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1664009979,
+      "creation_date": 1664008094,
+      "question_id": 73835778,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835778/bleu-score-in-nltk-library",
+      "title": "Bleu_score in NLTK library"
+    },
+    {
+      "tags": [
+        "python",
+        "django",
+        "static"
+      ],
+      "owner": {
+        "account_id": 23127893,
+        "reputation": 523,
+        "user_id": 17233433,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/TG0ee.jpg?s=256&g=1",
+        "display_name": "Robo",
+        "link": "https://stackoverflow.com/users/17233433/robo"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1664009929,
+      "creation_date": 1664004824,
+      "question_id": 73835488,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835488/staticfiles-not-loading-on-django",
+      "title": "Staticfiles not loading on Django"
+    },
+    {
+      "tags": [
+        "python",
+        "datetime",
+        "timestamp"
+      ],
+      "owner": {
+        "account_id": 23610925,
+        "reputation": 1,
+        "user_id": 17645965,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJzGAP90999DSf4Y0xaV4pqbRXs6QGDPqwS0EDp8=k-s256",
+        "display_name": "Kacper \u0141\u0119czy\u0144ski",
+        "link": "https://stackoverflow.com/users/17645965/kacper-%c5%81%c4%99czy%c5%84ski"
+      },
+      "is_answered": false,
+      "view_count": 26,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1664009928,
+      "creation_date": 1663954564,
+      "last_edit_date": 1664004545,
+      "question_id": 73831204,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73831204/how-to-extract-hours-minutes-and-secods-from-datetime-fromtimestamp",
+      "title": "How to extract hours, minutes and secods from datetime.fromtimestamp"
+    },
+    {
+      "tags": [
+        "python",
+        "web",
+        "project",
+        "script"
+      ],
+      "owner": {
+        "account_id": 26417419,
+        "reputation": 1,
+        "user_id": 20065610,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/be668d64ca6c5606efeccd0f260feebc?s=256&d=identicon&r=PG",
+        "display_name": "GNew",
+        "link": "https://stackoverflow.com/users/20065610/gnew"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "closed_date": 1664010301,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1664009888,
+      "creation_date": 1663977347,
+      "last_edit_date": 1664009888,
+      "question_id": 73833886,
+      "link": "https://stackoverflow.com/questions/73833886/isit-possible-to-make-a-python-script-that-can-search-for-specific-given-data-on",
+      "closed_reason": "Needs more focus",
+      "title": "Isit possible to make a Python script that can search for specific given data on a given web page and notify me if/ how many are on the web page?"
+    },
+    {
+      "tags": [
+        "python",
+        "floating-point",
+        "rounding"
+      ],
+      "owner": {
+        "account_id": 5563552,
+        "reputation": 817,
+        "user_id": 4411666,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6aeef582429fc21a0c76e126d814a8d9?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Valentin Garreau",
+        "link": "https://stackoverflow.com/users/4411666/valentin-garreau"
+      },
+      "is_answered": true,
+      "view_count": 182,
+      "accepted_answer_id": 63081049,
+      "answer_count": 4,
+      "score": 0,
+      "last_activity_date": 1664009882,
+      "creation_date": 1595620580,
+      "last_edit_date": 1595624603,
+      "question_id": 63080621,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/63080621/round-decimal-if-1-then-no-decimal-if-0-01-then-2-decimal",
+      "title": "Round decimal - If 1 then no decimal, if 0.01 then 2 decimal"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "type-conversion"
+      ],
+      "owner": {
+        "account_id": 25866354,
+        "reputation": 23,
+        "user_id": 19597961,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AFdZucqobQu7R2LzQ7tTRTR96FvsYBd0BXnUFE6kkxWpfA=k-s256",
+        "display_name": "Shredz",
+        "link": "https://stackoverflow.com/users/19597961/shredz"
+      },
+      "is_answered": false,
+      "view_count": 21,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1664009870,
+      "creation_date": 1664008239,
+      "last_edit_date": 1664009362,
+      "question_id": 73835791,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835791/how-to-convert-an-object-to-int-in-python",
+      "title": "How to convert an object to int in python?"
+    },
+    {
+      "tags": [
+        "python",
+        "list",
+        "sum"
+      ],
+      "owner": {
+        "account_id": 18790159,
+        "reputation": 29,
+        "user_id": 13702807,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/DswVn.png?s=256&g=1",
+        "display_name": "PoorPythonProgrammer",
+        "link": "https://stackoverflow.com/users/13702807/poorpythonprogrammer"
+      },
+      "is_answered": true,
+      "view_count": 18,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1664009781,
+      "creation_date": 1664008670,
+      "last_edit_date": 1664009781,
+      "question_id": 73835836,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835836/creating-code-to-make-sum-of-array-elements-with-variable",
+      "title": "Creating code to make sum of array elements with variable"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "nan",
+        "mean"
+      ],
+      "owner": {
+        "account_id": 25271584,
+        "reputation": 61,
+        "user_id": 19100837,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJyApy_JiG7iuIZ7KS3w688GDYAq47fvbNk715qt=k-s256",
+        "display_name": "heng xia",
+        "link": "https://stackoverflow.com/users/19100837/heng-xia"
+      },
+      "is_answered": true,
+      "view_count": 47,
+      "accepted_answer_id": 73810248,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1664009747,
+      "creation_date": 1663827409,
+      "last_edit_date": 1663959308,
+      "question_id": 73810108,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73810108/python-pandas-dataframe-fill-nans-with-a-conditional-mean-of-previous-and-next",
+      "title": "python pandas dataframe : fill nans with a conditional mean of previous and next value"
+    },
+    {
+      "tags": [
+        "python",
+        "selenium",
+        "qt",
+        "selenium-webdriver"
+      ],
+      "owner": {
+        "account_id": 21409428,
+        "reputation": 1,
+        "user_id": 15770008,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/10224876374006699/picture?type=large",
+        "display_name": "Ufuk Sipor",
+        "link": "https://stackoverflow.com/users/15770008/ufuk-sipor"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1664009701,
+      "creation_date": 1664009701,
+      "question_id": 73835923,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835923/hello-how-can-i-stop-selenium-i-close-the-program-but-selenium-does-not-stop",
+      "title": "hello how can i stop selenium i close the program but selenium does not stop"
+    },
+    {
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "ms-word",
+        "docx",
+        "python-docx"
+      ],
+      "owner": {
+        "account_id": 23405806,
+        "reputation": 1,
+        "user_id": 17468208,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJzW2A1NBqFBwwft03C-KkPs2V5vbWe1zm3BMSDM=k-s256",
+        "display_name": "van1234",
+        "link": "https://stackoverflow.com/users/17468208/van1234"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1664009667,
+      "creation_date": 1664009667,
+      "question_id": 73835920,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73835920/conversion-from-word-document-excel-into-binary-string-and-vice-versa-in-python",
+      "title": "Conversion from word document/excel into binary string and vice versa in python"
+    },
+    {
+      "tags": [
+        "python",
+        "selenium",
+        "download",
+        "web-crawler"
+      ],
+      "owner": {
+        "account_id": 18044480,
+        "reputation": 15,
+        "user_id": 13115834,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjiAU2hN3D1YG6IMALgsdmGD2YdKNlGW75L49rR=k-s256",
+        "display_name": "Boglinger",
+        "link": "https://stackoverflow.com/users/13115834/boglinger"
+      },
+      "is_answered": true,
+      "view_count": 31,
+      "accepted_answer_id": 73829617,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1664009569,
+      "creation_date": 1663782440,
+      "last_edit_date": 1664009569,
+      "question_id": 73804978,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73804978/selenium-cant-download-correct-file-in-headless-mode",
+      "title": "Selenium can&#39;t download correct file in headless mode"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "account_id": 26429515,
+        "reputation": 1,
+        "user_id": 20075918,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/ACNPEu9Vn6dDKYXY-KJCUGHNnf9HJ5lQJyRBCYiPKQIz=k-s256",
+        "display_name": "Monish",
+        "link": "https://stackoverflow.com/users/20075918/monish"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "closed_date": 1664009884,
+      "answer_count": 0,
+      "score": -4,
+      "last_activity_date": 1664009484,
+      "creation_date": 1664009404,
+      "last_edit_date": 1664009484,
+      "question_id": 73835890,
+      "link": "https://stackoverflow.com/questions/73835890/triplet-with-properties",
+      "closed_reason": "Needs more focus",
+      "title": "Triplet with properties"
+    },
+    {
+      "tags": [
+        "python",
+        "plotly",
+        "plotly-dash",
+        "plotly-python",
+        "plotly-express"
+      ],
+      "owner": {
+        "account_id": 16686622,
+        "reputation": 679,
+        "user_id": 12060361,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/A9ier.jpg?s=256&g=1",
+        "display_name": "mmarion",
+        "link": "https://stackoverflow.com/users/12060361/mmarion"
+      },
+      "is_answered": true,
+      "view_count": 3040,
+      "closed_date": 1663676232,
+      "accepted_answer_id": 67291179,
+      "answer_count": 2,
+      "score": 5,
+      "last_activity_date": 1664009460,
+      "creation_date": 1619560451,
+      "question_id": 67291178,
+      "link": "https://stackoverflow.com/questions/67291178/how-to-create-subplots-using-plotly-express",
+      "closed_reason": "Duplicate",
+      "title": "How To Create Subplots Using Plotly Express"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 291
+}
