@@ -14,10 +14,9 @@
  реализована возможность отправки текстового файла на Яндекс диск.
 
 
-- [В третьей задаче](https://github.com/MariaZamyatina/-requests-http-requests/blob/main/task_3.py) выводим JSON с вопросами, созданными пользователями на сайте [stackoverflow](https://stackoverflow.com/).
+- [В третьей задаче](https://github.com/MariaZamyatina/-requests-http-requests/blob/main/task_3.py) выводим на печать вопросы, созданные пользователями на сайте [stackoverflow](https://stackoverflow.com/).
  Запрос фильтрует все вопросы по следующим параметрам: тэг - Python  и дата создания вопроса.   
-Дата создания вопроса вводится пользователем в формате 2022-Sep-24. JSON с данными также сохранятеся
- в текстовом файле.
+Дата создания вопроса вводится пользователем. 
  
  
 
