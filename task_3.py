@@ -9,7 +9,7 @@ while indicator:
     count += 1
     url = f'https://stackoverflow.com/questions/tagged/python?tab=newest&page={count}&pagesize=50'
     response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'lxml')#"html.parser")
+    soup = BeautifulSoup(response.text, 'lxml')
 
     allNews = soup.find_all('h3', class_="s-post-summary--content-title")
 
